@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyakapadia10
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning new web technologies
+- 🌱 I’m currently learning Django in Python
 
 <!---
 shreyakapadia10/shreyakapadia10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
