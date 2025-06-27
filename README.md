@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shreyakapadia10
+- 👋 Hi, I’m @shreyakapadia10, working as a Senior Software Engineer.
 - 👀 I’m interested in learning new web technologies
-- 🌱 I’m currently learning Django in Python
 
 <!---
 shreyakapadia10/shreyakapadia10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
